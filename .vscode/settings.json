@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.endWithNewline": true,
+  "html.format.maxPreserveNewLines": 1,
+  "html.format.wrapAttributes": "force-aligned",
+  "prettier.disableLanguages": ["html, json"],
+  "debug.node.autoAttach": "on"
+}
